@@ -9,6 +9,6 @@ entries:
     name: myapp-python
     type: application
     urls:
-    - https://am2308.github.io/Helm-Package/docs/myapp-python-0.1.0.tgz
+    - https://am2308.github.io/Helm-Package/myapp-python-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-12T11:21:04.876897Z"
